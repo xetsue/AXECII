@@ -7,8 +7,7 @@
 ## Descriptions 
 This script aims to serve and generate ASCII art with image files without the need for dedicated server and processing. Respecting User's Privacy with Zero Data Collected.
 
-Alternatively users can download the [AXEXII.html Releases](https://github.com/xetsue/AXECII/releases/tag/v1.0.0)file and open it in any browsers on any device fully offline.
-
+Alternatively users can download the [AXEXII.html Releases](https://github.com/xetsue/AXECII/releases/tag/v1.0.0) here.
 ## Previews
 <img width="1080" height="1611" alt="1000236222" src="https://github.com/user-attachments/assets/a4d9f089-a14b-4879-a1d0-19735d6ed9e6" />
 
